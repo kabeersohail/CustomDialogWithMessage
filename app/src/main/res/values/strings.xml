@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="custom_message">My custom message</string>
+</resources>
